@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grocery Store</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="shopping">Shopping</string>
+    <string name="checkout">Checkout</string>
+    <string name="account">Account</string>
+
+    <string name="text_back_icon">Back Icon</string>
+    <string name="text_filter_icon">Filter Icon</string>
+    <string name="text_search_icon">Search Icon</string>
+    <string name="text_add_icon">Add Icon</string>
+    <string name="text_heart_icon">Heart Icon</string>
+</resources>
